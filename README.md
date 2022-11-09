@@ -1,6 +1,6 @@
 [![@xthasunil's Holopin board](https://holopin.me/xthasunil)](https://holopin.io/@xthasunil)
 
-<a href=#><img src="contributions.svg"></a>
+<img src="snake.svg">
 
 <p align="center"> 
   Visitor count<br>
