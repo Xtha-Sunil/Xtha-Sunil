@@ -4,6 +4,7 @@
 - I am a tech enthusiast with a passion for backend development.
 - I love solving puzzles and automating tasks.
 - I can solve a 10 by 10 Rubik's cube! 🧩
+- October 🎃, my birth month.
 - My curiosity drives me to explore, build, and optimize systems.
 
 ---
