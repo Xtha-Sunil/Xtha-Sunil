@@ -12,6 +12,7 @@
 [![An image of @xthasunil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xthasunil)](https://holopin.io/@xthasunil)
 
 ### 🔥 Profiles
-| LeetCode Stats | GitHub Stats |
-| --- | --- |
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/xtha-sunil?theme=dark&font=source_code_pro) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xtha-Sunil&show_icons=true&theme=radical) |
+### LeetCode Stats 
+![LeetCode Stats](https://leetcard.jacoblin.cool/xtha-sunil?theme=dark&font=source_code_pro)
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xtha-Sunil&show_icons=true&theme=radical) |
