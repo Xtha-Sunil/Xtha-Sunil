@@ -1,5 +1,5 @@
 ## Hi there, I'm Xtha-Sunil! 👋  
-![Profile views](https://komarev.com/ghpvc/?username=Xtha-Sunil&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=Xtha-Sunil&color=red)
 
 ### 🚀 About Me
 - 💻 Tech enthusiast with a passion for backend development.
@@ -11,7 +11,7 @@
 ---
 
 ### 🛡️ Badges
-[![An image of @xthasunil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xthasunil)](https://holopin.io/@xthasunil)
+[![Holopin badges](https://holopin.me/xthasunil)](https://holopin.io/@xthasunil)
 
 ---
 
