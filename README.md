@@ -1,8 +1,6 @@
 ## Hi there, I'm Xtha-Sunil! 👋  
 ![Profile views](https://komarev.com/ghpvc/?username=Xtha-Sunil&color=red)
 
-[![Follow](https://img.shields.io/badge/Follow-@Xtha--Sunil-blue?style=for-the-badge&logo=github)](https://github.com/Xtha-Sunil?tab=followers)
-
 ### 🚀 About Me
 - 💻 Tech enthusiast with a passion for backend development.
 - 🧩 Puzzle solver and automation lover.
