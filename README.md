@@ -3,7 +3,7 @@
 ### 🧑‍💻 About Me
 - I'm really interested in how the behind-the-scenes stuff of websites and apps works (that's backend development!).
 - I enjoy figuring things out and making repetitive tasks automatic.
-- Fun fact: I can solve a 10x10 Rubik's cube! It helps me think logically.
+- Fun fact: I can solve a 10x10 Rubik's cube!
 - My birthday is in October. 🎃
 
 ---
