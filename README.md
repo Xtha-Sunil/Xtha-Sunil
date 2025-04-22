@@ -18,4 +18,3 @@
 - Selenium Automation as a hobby, let's say side quest.
 - Grinding Data Structures and Algorithms.
 - Learning ASP.NET MVC.
-- 
